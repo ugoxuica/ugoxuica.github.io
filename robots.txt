@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugoxuica.github.io/sitemap_index.ugoxuica
